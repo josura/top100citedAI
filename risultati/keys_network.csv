@@ -1,0 +1,1500 @@
+Source,Target
+Generative model,Technical Journalism
+Artificial intelligence,Computer science
+Artificial intelligence,Generative grammar
+Artificial intelligence,Mathematics education
+Artificial intelligence,Psychology
+Computer science,Generative grammar
+Computer science,Mathematics education
+Computer science,Psychology
+Generative grammar,Mathematics education
+Generative grammar,Psychology
+Mathematics education,Psychology
+Accountability,Artificial intelligence
+Accountability,Computer science
+Accountability,Computer security
+Accountability,Generative grammar
+Accountability,Key (lock)
+Accountability,Law
+Accountability,Political science
+Accountability,Psychology
+Accountability,Transparency (behavior)
+Artificial intelligence,Computer science
+Artificial intelligence,Computer security
+Artificial intelligence,Generative grammar
+Artificial intelligence,Key (lock)
+Artificial intelligence,Law
+Artificial intelligence,Political science
+Artificial intelligence,Psychology
+Artificial intelligence,Transparency (behavior)
+Computer science,Computer security
+Computer science,Generative grammar
+Computer science,Key (lock)
+Computer science,Law
+Computer science,Political science
+Computer science,Psychology
+Computer science,Transparency (behavior)
+Computer security,Generative grammar
+Computer security,Key (lock)
+Computer security,Law
+Computer security,Political science
+Computer security,Psychology
+Computer security,Transparency (behavior)
+Generative grammar,Key (lock)
+Generative grammar,Law
+Generative grammar,Political science
+Generative grammar,Psychology
+Generative grammar,Transparency (behavior)
+Key (lock),Law
+Key (lock),Political science
+Key (lock),Psychology
+Key (lock),Transparency (behavior)
+Law,Political science
+Law,Psychology
+Law,Transparency (behavior)
+Political science,Psychology
+Political science,Transparency (behavior)
+Psychology,Transparency (behavior)
+Artificial intelligence,Computer science
+Artificial intelligence,Generative grammar
+Artificial intelligence,Law
+Artificial intelligence,Political science
+Artificial intelligence,Politics
+Artificial intelligence,Psychology
+Computer science,Generative grammar
+Computer science,Law
+Computer science,Political science
+Computer science,Politics
+Computer science,Psychology
+Generative grammar,Law
+Generative grammar,Political science
+Generative grammar,Politics
+Generative grammar,Psychology
+Law,Political science
+Law,Politics
+Law,Psychology
+Political science,Politics
+Political science,Psychology
+Politics,Psychology
+Explicit knowledge,Tacit Knowledge
+Appropriation,Technical Journalism
+Artificial intelligence,Cognitive science
+Artificial intelligence,Computer science
+Artificial intelligence,Generative grammar
+Artificial intelligence,Humanity
+Artificial intelligence,Philosophy
+Artificial intelligence,Psychology
+Artificial intelligence,Theology
+Cognitive science,Computer science
+Cognitive science,Generative grammar
+Cognitive science,Humanity
+Cognitive science,Philosophy
+Cognitive science,Psychology
+Cognitive science,Theology
+Computer science,Generative grammar
+Computer science,Humanity
+Computer science,Philosophy
+Computer science,Psychology
+Computer science,Theology
+Generative grammar,Humanity
+Generative grammar,Philosophy
+Generative grammar,Psychology
+Generative grammar,Theology
+Humanity,Philosophy
+Humanity,Psychology
+Humanity,Theology
+Philosophy,Psychology
+Philosophy,Theology
+Psychology,Theology
+Hospitality,Hospitality management studies
+Hospitality,Relevance
+Hospitality,Scope (computer science)
+Hospitality,Technology Acceptance Model
+Hospitality management studies,Relevance
+Hospitality management studies,Scope (computer science)
+Hospitality management studies,Technology Acceptance Model
+Relevance,Scope (computer science)
+Relevance,Technology Acceptance Model
+Scope (computer science),Technology Acceptance Model
+Agency (philosophy),Applied psychology
+Agency (philosophy),Artificial intelligence
+Agency (philosophy),Citizen journalism
+Agency (philosophy),Computer science
+Agency (philosophy),Creativity
+Agency (philosophy),Generative grammar
+Agency (philosophy),Human–computer interaction
+Agency (philosophy),Knowledge management
+Agency (philosophy),Literacy
+Agency (philosophy),Neuroscience
+Agency (philosophy),Originality
+Agency (philosophy),Pedagogy
+Agency (philosophy),Perception
+Agency (philosophy),Psychology
+Agency (philosophy),Social psychology
+Agency (philosophy),Social science
+Agency (philosophy),Sociology
+Agency (philosophy),User experience design
+Agency (philosophy),World Wide Web
+Applied psychology,Artificial intelligence
+Applied psychology,Citizen journalism
+Applied psychology,Computer science
+Applied psychology,Creativity
+Applied psychology,Generative grammar
+Applied psychology,Human–computer interaction
+Applied psychology,Knowledge management
+Applied psychology,Literacy
+Applied psychology,Neuroscience
+Applied psychology,Originality
+Applied psychology,Pedagogy
+Applied psychology,Perception
+Applied psychology,Psychology
+Applied psychology,Social psychology
+Applied psychology,Social science
+Applied psychology,Sociology
+Applied psychology,User experience design
+Applied psychology,World Wide Web
+Artificial intelligence,Citizen journalism
+Artificial intelligence,Computer science
+Artificial intelligence,Creativity
+Artificial intelligence,Generative grammar
+Artificial intelligence,Human–computer interaction
+Artificial intelligence,Knowledge management
+Artificial intelligence,Literacy
+Artificial intelligence,Neuroscience
+Artificial intelligence,Originality
+Artificial intelligence,Pedagogy
+Artificial intelligence,Perception
+Artificial intelligence,Psychology
+Artificial intelligence,Social psychology
+Artificial intelligence,Social science
+Artificial intelligence,Sociology
+Artificial intelligence,User experience design
+Artificial intelligence,World Wide Web
+Citizen journalism,Computer science
+Citizen journalism,Creativity
+Citizen journalism,Generative grammar
+Citizen journalism,Human–computer interaction
+Citizen journalism,Knowledge management
+Citizen journalism,Literacy
+Citizen journalism,Neuroscience
+Citizen journalism,Originality
+Citizen journalism,Pedagogy
+Citizen journalism,Perception
+Citizen journalism,Psychology
+Citizen journalism,Social psychology
+Citizen journalism,Social science
+Citizen journalism,Sociology
+Citizen journalism,User experience design
+Citizen journalism,World Wide Web
+Computer science,Creativity
+Computer science,Generative grammar
+Computer science,Human–computer interaction
+Computer science,Knowledge management
+Computer science,Literacy
+Computer science,Neuroscience
+Computer science,Originality
+Computer science,Pedagogy
+Computer science,Perception
+Computer science,Psychology
+Computer science,Social psychology
+Computer science,Social science
+Computer science,Sociology
+Computer science,User experience design
+Computer science,World Wide Web
+Creativity,Generative grammar
+Creativity,Human–computer interaction
+Creativity,Knowledge management
+Creativity,Literacy
+Creativity,Neuroscience
+Creativity,Originality
+Creativity,Pedagogy
+Creativity,Perception
+Creativity,Psychology
+Creativity,Social psychology
+Creativity,Social science
+Creativity,Sociology
+Creativity,User experience design
+Creativity,World Wide Web
+Generative grammar,Human–computer interaction
+Generative grammar,Knowledge management
+Generative grammar,Literacy
+Generative grammar,Neuroscience
+Generative grammar,Originality
+Generative grammar,Pedagogy
+Generative grammar,Perception
+Generative grammar,Psychology
+Generative grammar,Social psychology
+Generative grammar,Social science
+Generative grammar,Sociology
+Generative grammar,User experience design
+Generative grammar,World Wide Web
+Human–computer interaction,Knowledge management
+Human–computer interaction,Literacy
+Human–computer interaction,Neuroscience
+Human–computer interaction,Originality
+Human–computer interaction,Pedagogy
+Human–computer interaction,Perception
+Human–computer interaction,Psychology
+Human–computer interaction,Social psychology
+Human–computer interaction,Social science
+Human–computer interaction,Sociology
+Human–computer interaction,User experience design
+Human–computer interaction,World Wide Web
+Knowledge management,Literacy
+Knowledge management,Neuroscience
+Knowledge management,Originality
+Knowledge management,Pedagogy
+Knowledge management,Perception
+Knowledge management,Psychology
+Knowledge management,Social psychology
+Knowledge management,Social science
+Knowledge management,Sociology
+Knowledge management,User experience design
+Knowledge management,World Wide Web
+Literacy,Neuroscience
+Literacy,Originality
+Literacy,Pedagogy
+Literacy,Perception
+Literacy,Psychology
+Literacy,Social psychology
+Literacy,Social science
+Literacy,Sociology
+Literacy,User experience design
+Literacy,World Wide Web
+Neuroscience,Originality
+Neuroscience,Pedagogy
+Neuroscience,Perception
+Neuroscience,Psychology
+Neuroscience,Social psychology
+Neuroscience,Social science
+Neuroscience,Sociology
+Neuroscience,User experience design
+Neuroscience,World Wide Web
+Originality,Pedagogy
+Originality,Perception
+Originality,Psychology
+Originality,Social psychology
+Originality,Social science
+Originality,Sociology
+Originality,User experience design
+Originality,World Wide Web
+Pedagogy,Perception
+Pedagogy,Psychology
+Pedagogy,Social psychology
+Pedagogy,Social science
+Pedagogy,Sociology
+Pedagogy,User experience design
+Pedagogy,World Wide Web
+Perception,Psychology
+Perception,Social psychology
+Perception,Social science
+Perception,Sociology
+Perception,User experience design
+Perception,World Wide Web
+Psychology,Social psychology
+Psychology,Social science
+Psychology,Sociology
+Psychology,User experience design
+Psychology,World Wide Web
+Social psychology,Social science
+Social psychology,Sociology
+Social psychology,User experience design
+Social psychology,World Wide Web
+Social science,Sociology
+Social science,User experience design
+Social science,World Wide Web
+Sociology,User experience design
+Sociology,World Wide Web
+User experience design,World Wide Web
+Culture change,Generative model
+Culture change,Managing change
+Culture change,Planned change
+Culture change,Unintended consequences
+Culture change,Value (mathematics)
+Generative model,Managing change
+Generative model,Planned change
+Generative model,Unintended consequences
+Generative model,Value (mathematics)
+Managing change,Planned change
+Managing change,Unintended consequences
+Managing change,Value (mathematics)
+Planned change,Unintended consequences
+Planned change,Value (mathematics)
+Unintended consequences,Value (mathematics)
+Bounded rationality,Dystopia
+Bounded rationality,Futures studies
+Bounded rationality,Technological determinism
+Bounded rationality,Transhumanism
+Bounded rationality,Vision
+Dystopia,Futures studies
+Dystopia,Technological determinism
+Dystopia,Transhumanism
+Dystopia,Vision
+Futures studies,Technological determinism
+Futures studies,Transhumanism
+Futures studies,Vision
+Technological determinism,Transhumanism
+Technological determinism,Vision
+Transhumanism,Vision
+Artificial intelligence,Cognitive science
+Artificial intelligence,Computer science
+Artificial intelligence,Epistemology
+Artificial intelligence,Generative grammar
+Artificial intelligence,Humanity
+Artificial intelligence,Philosophy
+Artificial intelligence,Psychology
+Artificial intelligence,Theology
+Cognitive science,Computer science
+Cognitive science,Epistemology
+Cognitive science,Generative grammar
+Cognitive science,Humanity
+Cognitive science,Philosophy
+Cognitive science,Psychology
+Cognitive science,Theology
+Computer science,Epistemology
+Computer science,Generative grammar
+Computer science,Humanity
+Computer science,Philosophy
+Computer science,Psychology
+Computer science,Theology
+Epistemology,Generative grammar
+Epistemology,Humanity
+Epistemology,Philosophy
+Epistemology,Psychology
+Epistemology,Theology
+Generative grammar,Humanity
+Generative grammar,Philosophy
+Generative grammar,Psychology
+Generative grammar,Theology
+Humanity,Philosophy
+Humanity,Psychology
+Humanity,Theology
+Philosophy,Psychology
+Philosophy,Theology
+Psychology,Theology
+Artificial intelligence,Computer science
+Artificial intelligence,Educational technology
+Artificial intelligence,Engineering
+Artificial intelligence,Engineering management
+Artificial intelligence,Generative grammar
+Artificial intelligence,Instructional design
+Artificial intelligence,Knowledge management
+Artificial intelligence,Mathematics education
+Artificial intelligence,Multimedia
+Artificial intelligence,Psychology
+Computer science,Educational technology
+Computer science,Engineering
+Computer science,Engineering management
+Computer science,Generative grammar
+Computer science,Instructional design
+Computer science,Knowledge management
+Computer science,Mathematics education
+Computer science,Multimedia
+Computer science,Psychology
+Educational technology,Engineering
+Educational technology,Engineering management
+Educational technology,Generative grammar
+Educational technology,Instructional design
+Educational technology,Knowledge management
+Educational technology,Mathematics education
+Educational technology,Multimedia
+Educational technology,Psychology
+Engineering,Engineering management
+Engineering,Generative grammar
+Engineering,Instructional design
+Engineering,Knowledge management
+Engineering,Mathematics education
+Engineering,Multimedia
+Engineering,Psychology
+Engineering management,Generative grammar
+Engineering management,Instructional design
+Engineering management,Knowledge management
+Engineering management,Mathematics education
+Engineering management,Multimedia
+Engineering management,Psychology
+Generative grammar,Instructional design
+Generative grammar,Knowledge management
+Generative grammar,Mathematics education
+Generative grammar,Multimedia
+Generative grammar,Psychology
+Instructional design,Knowledge management
+Instructional design,Mathematics education
+Instructional design,Multimedia
+Instructional design,Psychology
+Knowledge management,Mathematics education
+Knowledge management,Multimedia
+Knowledge management,Psychology
+Mathematics education,Multimedia
+Mathematics education,Psychology
+Multimedia,Psychology
+Artificial intelligence,Business
+Artificial intelligence,Computer science
+Artificial intelligence,Economics
+Artificial intelligence,Generative grammar
+Artificial intelligence,Industrial organization
+Artificial intelligence,Labour economics
+Artificial intelligence,Physics
+Artificial intelligence,Quantum mechanics
+Artificial intelligence,Term (time)
+Business,Computer science
+Business,Economics
+Business,Generative grammar
+Business,Industrial organization
+Business,Labour economics
+Business,Physics
+Business,Quantum mechanics
+Business,Term (time)
+Computer science,Economics
+Computer science,Generative grammar
+Computer science,Industrial organization
+Computer science,Labour economics
+Computer science,Physics
+Computer science,Quantum mechanics
+Computer science,Term (time)
+Economics,Generative grammar
+Economics,Industrial organization
+Economics,Labour economics
+Economics,Physics
+Economics,Quantum mechanics
+Economics,Term (time)
+Generative grammar,Industrial organization
+Generative grammar,Labour economics
+Generative grammar,Physics
+Generative grammar,Quantum mechanics
+Generative grammar,Term (time)
+Industrial organization,Labour economics
+Industrial organization,Physics
+Industrial organization,Quantum mechanics
+Industrial organization,Term (time)
+Labour economics,Physics
+Labour economics,Quantum mechanics
+Labour economics,Term (time)
+Physics,Quantum mechanics
+Physics,Term (time)
+Quantum mechanics,Term (time)
+Artificial intelligence,Computer science
+Artificial intelligence,Data science
+Artificial intelligence,Engineering
+Artificial intelligence,Engineering ethics
+Artificial intelligence,Generative grammar
+Artificial intelligence,Law
+Artificial intelligence,Political science
+Artificial intelligence,Psychology
+Artificial intelligence,Sustainable development
+Computer science,Data science
+Computer science,Engineering
+Computer science,Engineering ethics
+Computer science,Generative grammar
+Computer science,Law
+Computer science,Political science
+Computer science,Psychology
+Computer science,Sustainable development
+Data science,Engineering
+Data science,Engineering ethics
+Data science,Generative grammar
+Data science,Law
+Data science,Political science
+Data science,Psychology
+Data science,Sustainable development
+Engineering,Engineering ethics
+Engineering,Generative grammar
+Engineering,Law
+Engineering,Political science
+Engineering,Psychology
+Engineering,Sustainable development
+Engineering ethics,Generative grammar
+Engineering ethics,Law
+Engineering ethics,Political science
+Engineering ethics,Psychology
+Engineering ethics,Sustainable development
+Generative grammar,Law
+Generative grammar,Political science
+Generative grammar,Psychology
+Generative grammar,Sustainable development
+Law,Political science
+Law,Psychology
+Law,Sustainable development
+Political science,Psychology
+Political science,Sustainable development
+Psychology,Sustainable development
+Generative model,Intellectual freedom
+Generative model,Safeguarding
+Intellectual freedom,Safeguarding
+Bioethics,Personhood
+Sociological Research,Sociological Theory
+Artificial intelligence,Computer science
+Artificial intelligence,Computer security
+Artificial intelligence,Data science
+Artificial intelligence,Engineering
+Artificial intelligence,Generative grammar
+Artificial intelligence,Internet privacy
+Artificial intelligence,Psychology
+Computer science,Computer security
+Computer science,Data science
+Computer science,Engineering
+Computer science,Generative grammar
+Computer science,Internet privacy
+Computer science,Psychology
+Computer security,Data science
+Computer security,Engineering
+Computer security,Generative grammar
+Computer security,Internet privacy
+Computer security,Psychology
+Data science,Engineering
+Data science,Generative grammar
+Data science,Internet privacy
+Data science,Psychology
+Engineering,Generative grammar
+Engineering,Internet privacy
+Engineering,Psychology
+Generative grammar,Internet privacy
+Generative grammar,Psychology
+Internet privacy,Psychology
+Distrust,Neutrality
+Distrust,Transformative Learning
+Neutrality,Transformative Learning
+Choice architecture,Nudge theory
+Artificial intelligence,Cognitive science
+Artificial intelligence,Computer science
+Artificial intelligence,Data science
+Artificial intelligence,Generative grammar
+Artificial intelligence,Machine learning
+Artificial intelligence,Psychology
+Cognitive science,Computer science
+Cognitive science,Data science
+Cognitive science,Generative grammar
+Cognitive science,Machine learning
+Cognitive science,Psychology
+Computer science,Data science
+Computer science,Generative grammar
+Computer science,Machine learning
+Computer science,Psychology
+Data science,Generative grammar
+Data science,Machine learning
+Data science,Psychology
+Generative grammar,Machine learning
+Generative grammar,Psychology
+Machine learning,Psychology
+Artificial intelligence,Business
+Artificial intelligence,Computer science
+Artificial intelligence,Computer security
+Artificial intelligence,Corporate governance
+Artificial intelligence,Finance
+Artificial intelligence,Generative grammar
+Artificial intelligence,Internet privacy
+Artificial intelligence,Knowledge management
+Artificial intelligence,Personally identifiable information
+Artificial intelligence,Perspective (graphical)
+Artificial intelligence,Political science
+Artificial intelligence,Public relations
+Business,Computer science
+Business,Computer security
+Business,Corporate governance
+Business,Finance
+Business,Generative grammar
+Business,Internet privacy
+Business,Knowledge management
+Business,Personally identifiable information
+Business,Perspective (graphical)
+Business,Political science
+Business,Public relations
+Computer science,Computer security
+Computer science,Corporate governance
+Computer science,Finance
+Computer science,Generative grammar
+Computer science,Internet privacy
+Computer science,Knowledge management
+Computer science,Personally identifiable information
+Computer science,Perspective (graphical)
+Computer science,Political science
+Computer science,Public relations
+Computer security,Corporate governance
+Computer security,Finance
+Computer security,Generative grammar
+Computer security,Internet privacy
+Computer security,Knowledge management
+Computer security,Personally identifiable information
+Computer security,Perspective (graphical)
+Computer security,Political science
+Computer security,Public relations
+Corporate governance,Finance
+Corporate governance,Generative grammar
+Corporate governance,Internet privacy
+Corporate governance,Knowledge management
+Corporate governance,Personally identifiable information
+Corporate governance,Perspective (graphical)
+Corporate governance,Political science
+Corporate governance,Public relations
+Finance,Generative grammar
+Finance,Internet privacy
+Finance,Knowledge management
+Finance,Personally identifiable information
+Finance,Perspective (graphical)
+Finance,Political science
+Finance,Public relations
+Generative grammar,Internet privacy
+Generative grammar,Knowledge management
+Generative grammar,Personally identifiable information
+Generative grammar,Perspective (graphical)
+Generative grammar,Political science
+Generative grammar,Public relations
+Internet privacy,Knowledge management
+Internet privacy,Personally identifiable information
+Internet privacy,Perspective (graphical)
+Internet privacy,Political science
+Internet privacy,Public relations
+Knowledge management,Personally identifiable information
+Knowledge management,Perspective (graphical)
+Knowledge management,Political science
+Knowledge management,Public relations
+Personally identifiable information,Perspective (graphical)
+Personally identifiable information,Political science
+Personally identifiable information,Public relations
+Perspective (graphical),Political science
+Perspective (graphical),Public relations
+Political science,Public relations
+Artificial intelligence,Compliance (psychology)
+Artificial intelligence,Computer science
+Artificial intelligence,Engineering
+Artificial intelligence,Engineering ethics
+Artificial intelligence,Epistemology
+Artificial intelligence,Generative grammar
+Artificial intelligence,Operating system
+Artificial intelligence,Philosophy
+Artificial intelligence,Process (computing)
+Artificial intelligence,Psychology
+Artificial intelligence,Social psychology
+Artificial intelligence,Sociology
+Compliance (psychology),Computer science
+Compliance (psychology),Engineering
+Compliance (psychology),Engineering ethics
+Compliance (psychology),Epistemology
+Compliance (psychology),Generative grammar
+Compliance (psychology),Operating system
+Compliance (psychology),Philosophy
+Compliance (psychology),Process (computing)
+Compliance (psychology),Psychology
+Compliance (psychology),Social psychology
+Compliance (psychology),Sociology
+Computer science,Engineering
+Computer science,Engineering ethics
+Computer science,Epistemology
+Computer science,Generative grammar
+Computer science,Operating system
+Computer science,Philosophy
+Computer science,Process (computing)
+Computer science,Psychology
+Computer science,Social psychology
+Computer science,Sociology
+Engineering,Engineering ethics
+Engineering,Epistemology
+Engineering,Generative grammar
+Engineering,Operating system
+Engineering,Philosophy
+Engineering,Process (computing)
+Engineering,Psychology
+Engineering,Social psychology
+Engineering,Sociology
+Engineering ethics,Epistemology
+Engineering ethics,Generative grammar
+Engineering ethics,Operating system
+Engineering ethics,Philosophy
+Engineering ethics,Process (computing)
+Engineering ethics,Psychology
+Engineering ethics,Social psychology
+Engineering ethics,Sociology
+Epistemology,Generative grammar
+Epistemology,Operating system
+Epistemology,Philosophy
+Epistemology,Process (computing)
+Epistemology,Psychology
+Epistemology,Social psychology
+Epistemology,Sociology
+Generative grammar,Operating system
+Generative grammar,Philosophy
+Generative grammar,Process (computing)
+Generative grammar,Psychology
+Generative grammar,Social psychology
+Generative grammar,Sociology
+Operating system,Philosophy
+Operating system,Process (computing)
+Operating system,Psychology
+Operating system,Social psychology
+Operating system,Sociology
+Philosophy,Process (computing)
+Philosophy,Psychology
+Philosophy,Social psychology
+Philosophy,Sociology
+Process (computing),Psychology
+Process (computing),Social psychology
+Process (computing),Sociology
+Psychology,Social psychology
+Psychology,Sociology
+Social psychology,Sociology
+Artificial intelligence,Computer science
+Artificial intelligence,Generative grammar
+Artificial intelligence,Psychology
+Computer science,Generative grammar
+Computer science,Psychology
+Generative grammar,Psychology
+Artificial intelligence,Computer science
+Artificial intelligence,Dual (grammatical number)
+Artificial intelligence,Engineering
+Artificial intelligence,Engineering ethics
+Artificial intelligence,Generative grammar
+Artificial intelligence,Linguistics
+Artificial intelligence,Philosophy
+Artificial intelligence,Psychology
+Artificial intelligence,Sociology
+Computer science,Dual (grammatical number)
+Computer science,Engineering
+Computer science,Engineering ethics
+Computer science,Generative grammar
+Computer science,Linguistics
+Computer science,Philosophy
+Computer science,Psychology
+Computer science,Sociology
+Dual (grammatical number),Engineering
+Dual (grammatical number),Engineering ethics
+Dual (grammatical number),Generative grammar
+Dual (grammatical number),Linguistics
+Dual (grammatical number),Philosophy
+Dual (grammatical number),Psychology
+Dual (grammatical number),Sociology
+Engineering,Engineering ethics
+Engineering,Generative grammar
+Engineering,Linguistics
+Engineering,Philosophy
+Engineering,Psychology
+Engineering,Sociology
+Engineering ethics,Generative grammar
+Engineering ethics,Linguistics
+Engineering ethics,Philosophy
+Engineering ethics,Psychology
+Engineering ethics,Sociology
+Generative grammar,Linguistics
+Generative grammar,Philosophy
+Generative grammar,Psychology
+Generative grammar,Sociology
+Linguistics,Philosophy
+Linguistics,Psychology
+Linguistics,Sociology
+Philosophy,Psychology
+Philosophy,Sociology
+Psychology,Sociology
+Artificial intelligence,Computer science
+Artificial intelligence,Environmental ethics
+Artificial intelligence,Epistemology
+Artificial intelligence,Generative grammar
+Artificial intelligence,Linguistics
+Artificial intelligence,Perspective (graphical)
+Artificial intelligence,Philosophy
+Artificial intelligence,Psychology
+Artificial intelligence,Sociology
+Computer science,Environmental ethics
+Computer science,Epistemology
+Computer science,Generative grammar
+Computer science,Linguistics
+Computer science,Perspective (graphical)
+Computer science,Philosophy
+Computer science,Psychology
+Computer science,Sociology
+Environmental ethics,Epistemology
+Environmental ethics,Generative grammar
+Environmental ethics,Linguistics
+Environmental ethics,Perspective (graphical)
+Environmental ethics,Philosophy
+Environmental ethics,Psychology
+Environmental ethics,Sociology
+Epistemology,Generative grammar
+Epistemology,Linguistics
+Epistemology,Perspective (graphical)
+Epistemology,Philosophy
+Epistemology,Psychology
+Epistemology,Sociology
+Generative grammar,Linguistics
+Generative grammar,Perspective (graphical)
+Generative grammar,Philosophy
+Generative grammar,Psychology
+Generative grammar,Sociology
+Linguistics,Perspective (graphical)
+Linguistics,Philosophy
+Linguistics,Psychology
+Linguistics,Sociology
+Perspective (graphical),Philosophy
+Perspective (graphical),Psychology
+Perspective (graphical),Sociology
+Philosophy,Psychology
+Philosophy,Sociology
+Psychology,Sociology
+Position paper,Transformative Learning
+Conceptual design,Floor plan
+Competitor analysis,Generative model
+Competitor analysis,Macro
+Generative model,Macro
+Affect,Argument (complex analysis)
+Affect,Disadvantage
+Affect,Performativity
+Affect,Undo
+Argument (complex analysis),Disadvantage
+Argument (complex analysis),Performativity
+Argument (complex analysis),Undo
+Disadvantage,Performativity
+Disadvantage,Undo
+Performativity,Undo
+Computer science,Computer security
+Computer science,Data science
+Computer science,Information privacy
+Computer science,Internet privacy
+Computer security,Data science
+Computer security,Information privacy
+Computer security,Internet privacy
+Data science,Information privacy
+Data science,Internet privacy
+Information privacy,Internet privacy
+Artificial intelligence,Computer science
+Artificial intelligence,Generative grammar
+Artificial intelligence,Higher education
+Artificial intelligence,Law
+Artificial intelligence,Mathematics education
+Artificial intelligence,Political science
+Artificial intelligence,Psychology
+Computer science,Generative grammar
+Computer science,Higher education
+Computer science,Law
+Computer science,Mathematics education
+Computer science,Political science
+Computer science,Psychology
+Generative grammar,Higher education
+Generative grammar,Law
+Generative grammar,Mathematics education
+Generative grammar,Political science
+Generative grammar,Psychology
+Higher education,Law
+Higher education,Mathematics education
+Higher education,Political science
+Higher education,Psychology
+Law,Mathematics education
+Law,Political science
+Law,Psychology
+Mathematics education,Political science
+Mathematics education,Psychology
+Political science,Psychology
+Qualitative analysis,Qualitative property
+Qualitative analysis,Thematic Analysis
+Qualitative analysis,Thematic map
+Qualitative property,Thematic Analysis
+Qualitative property,Thematic map
+Thematic Analysis,Thematic map
+Generative model,Sample (material)
+Generative model,Value (mathematics)
+Sample (material),Value (mathematics)
+Artificial intelligence,Computer science
+Artificial intelligence,Epistemology
+Artificial intelligence,Generative grammar
+Artificial intelligence,Intervention (counseling)
+Artificial intelligence,Philosophy
+Artificial intelligence,Psychiatry
+Artificial intelligence,Psychology
+Artificial intelligence,Social psychology
+Computer science,Epistemology
+Computer science,Generative grammar
+Computer science,Intervention (counseling)
+Computer science,Philosophy
+Computer science,Psychiatry
+Computer science,Psychology
+Computer science,Social psychology
+Epistemology,Generative grammar
+Epistemology,Intervention (counseling)
+Epistemology,Philosophy
+Epistemology,Psychiatry
+Epistemology,Psychology
+Epistemology,Social psychology
+Generative grammar,Intervention (counseling)
+Generative grammar,Philosophy
+Generative grammar,Psychiatry
+Generative grammar,Psychology
+Generative grammar,Social psychology
+Intervention (counseling),Philosophy
+Intervention (counseling),Psychiatry
+Intervention (counseling),Psychology
+Intervention (counseling),Social psychology
+Philosophy,Psychiatry
+Philosophy,Psychology
+Philosophy,Social psychology
+Psychiatry,Psychology
+Psychiatry,Social psychology
+Psychology,Social psychology
+Generative model,Representation
+Generative model,Misinformation
+Bloom's taxonomy,Underpinning
+Discriminative model,Generative model
+Discriminative model,Popularity
+Discriminative model,Transformative Learning
+Generative model,Popularity
+Generative model,Transformative Learning
+Popularity,Transformative Learning
+Artificial intelligence,Business
+Artificial intelligence,Computer science
+Artificial intelligence,Engineering
+Artificial intelligence,Engineering ethics
+Artificial intelligence,Generative grammar
+Artificial intelligence,Law
+Artificial intelligence,Moral responsibility
+Artificial intelligence,Political science
+Business,Computer science
+Business,Engineering
+Business,Engineering ethics
+Business,Generative grammar
+Business,Law
+Business,Moral responsibility
+Business,Political science
+Computer science,Engineering
+Computer science,Engineering ethics
+Computer science,Generative grammar
+Computer science,Law
+Computer science,Moral responsibility
+Computer science,Political science
+Engineering,Engineering ethics
+Engineering,Generative grammar
+Engineering,Law
+Engineering,Moral responsibility
+Engineering,Political science
+Engineering ethics,Generative grammar
+Engineering ethics,Law
+Engineering ethics,Moral responsibility
+Engineering ethics,Political science
+Generative grammar,Law
+Generative grammar,Moral responsibility
+Generative grammar,Political science
+Law,Moral responsibility
+Law,Political science
+Moral responsibility,Political science
+Argument (complex analysis),Brainstorming
+Argument (complex analysis),Diction
+Brainstorming,Diction
+Artificial intelligence,Big data
+Artificial intelligence,Computer science
+Artificial intelligence,Data science
+Artificial intelligence,Harm
+Artificial intelligence,Operating system
+Artificial intelligence,Psychology
+Artificial intelligence,Social psychology
+Artificial intelligence,The Internet
+Artificial intelligence,World Wide Web
+Big data,Computer science
+Big data,Data science
+Big data,Harm
+Big data,Operating system
+Big data,Psychology
+Big data,Social psychology
+Big data,The Internet
+Big data,World Wide Web
+Computer science,Data science
+Computer science,Harm
+Computer science,Operating system
+Computer science,Psychology
+Computer science,Social psychology
+Computer science,The Internet
+Computer science,World Wide Web
+Data science,Harm
+Data science,Operating system
+Data science,Psychology
+Data science,Social psychology
+Data science,The Internet
+Data science,World Wide Web
+Harm,Operating system
+Harm,Psychology
+Harm,Social psychology
+Harm,The Internet
+Harm,World Wide Web
+Operating system,Psychology
+Operating system,Social psychology
+Operating system,The Internet
+Operating system,World Wide Web
+Psychology,Social psychology
+Psychology,The Internet
+Psychology,World Wide Web
+Social psychology,The Internet
+Social psychology,World Wide Web
+The Internet,World Wide Web
+Engineering,Engineering ethics
+Engineering,Political science
+Engineering,Sociology
+Engineering ethics,Political science
+Engineering ethics,Sociology
+Political science,Sociology
+Artificial intelligence,Computer science
+Artificial intelligence,Engineering
+Artificial intelligence,Engineering ethics
+Artificial intelligence,Generative grammar
+Artificial intelligence,Journalism
+Artificial intelligence,Media studies
+Artificial intelligence,Sociology
+Computer science,Engineering
+Computer science,Engineering ethics
+Computer science,Generative grammar
+Computer science,Journalism
+Computer science,Media studies
+Computer science,Sociology
+Engineering,Engineering ethics
+Engineering,Generative grammar
+Engineering,Journalism
+Engineering,Media studies
+Engineering,Sociology
+Engineering ethics,Generative grammar
+Engineering ethics,Journalism
+Engineering ethics,Media studies
+Engineering ethics,Sociology
+Generative grammar,Journalism
+Generative grammar,Media studies
+Generative grammar,Sociology
+Journalism,Media studies
+Journalism,Sociology
+Media studies,Sociology
+Artificial intelligence,Computer science
+Artificial intelligence,Data science
+Artificial intelligence,Generative grammar
+Artificial intelligence,Human–computer interaction
+Artificial intelligence,Image (mathematics)
+Artificial intelligence,World Wide Web
+Computer science,Data science
+Computer science,Generative grammar
+Computer science,Human–computer interaction
+Computer science,Image (mathematics)
+Computer science,World Wide Web
+Data science,Generative grammar
+Data science,Human–computer interaction
+Data science,Image (mathematics)
+Data science,World Wide Web
+Generative grammar,Human–computer interaction
+Generative grammar,Image (mathematics)
+Generative grammar,World Wide Web
+Human–computer interaction,Image (mathematics)
+Human–computer interaction,World Wide Web
+Image (mathematics),World Wide Web
+CLARITY,Multiple choice
+Consumption,Investment
+Consumption,News aggregator
+Consumption,Value (mathematics)
+Investment,News aggregator
+Investment,Value (mathematics)
+News aggregator,Value (mathematics)
+Commodification,Profiling (computer programming)
+Commodification,Scrutiny
+Profiling (computer programming),Scrutiny
+Intuition,Value (mathematics)
+Dichotomy,Divergence (linguistics)
+Dichotomy,Sociotechnical system
+Divergence (linguistics),Sociotechnical system
+Mathematics education,Medical education
+Mathematics education,Medicine
+Mathematics education,Pedagogy
+Mathematics education,Psychology
+Medical education,Medicine
+Medical education,Pedagogy
+Medical education,Psychology
+Medicine,Pedagogy
+Medicine,Psychology
+Pedagogy,Psychology
+Cultural artifact,Cultural bias
+Cultural artifact,Interrogation
+Cultural artifact,Reflexivity
+Cultural bias,Interrogation
+Cultural bias,Reflexivity
+Interrogation,Reflexivity
+Computer science,Engineering
+Computer science,Engineering ethics
+Computer science,Inclusion (mineral)
+Computer science,Knowledge management
+Computer science,Law
+Computer science,Political science
+Computer science,Psychology
+Computer science,Public relations
+Computer science,Scholarship
+Computer science,Social science
+Computer science,Sociology
+Engineering,Engineering ethics
+Engineering,Inclusion (mineral)
+Engineering,Knowledge management
+Engineering,Law
+Engineering,Political science
+Engineering,Psychology
+Engineering,Public relations
+Engineering,Scholarship
+Engineering,Social science
+Engineering,Sociology
+Engineering ethics,Inclusion (mineral)
+Engineering ethics,Knowledge management
+Engineering ethics,Law
+Engineering ethics,Political science
+Engineering ethics,Psychology
+Engineering ethics,Public relations
+Engineering ethics,Scholarship
+Engineering ethics,Social science
+Engineering ethics,Sociology
+Inclusion (mineral),Knowledge management
+Inclusion (mineral),Law
+Inclusion (mineral),Political science
+Inclusion (mineral),Psychology
+Inclusion (mineral),Public relations
+Inclusion (mineral),Scholarship
+Inclusion (mineral),Social science
+Inclusion (mineral),Sociology
+Knowledge management,Law
+Knowledge management,Political science
+Knowledge management,Psychology
+Knowledge management,Public relations
+Knowledge management,Scholarship
+Knowledge management,Social science
+Knowledge management,Sociology
+Law,Political science
+Law,Psychology
+Law,Public relations
+Law,Scholarship
+Law,Social science
+Law,Sociology
+Political science,Psychology
+Political science,Public relations
+Political science,Scholarship
+Political science,Social science
+Political science,Sociology
+Psychology,Public relations
+Psychology,Scholarship
+Psychology,Social science
+Psychology,Sociology
+Public relations,Scholarship
+Public relations,Social science
+Public relations,Sociology
+Scholarship,Social science
+Scholarship,Sociology
+Social science,Sociology
+Moderation,Sentiment Analysis
+Moderation,Thematic Analysis
+Sentiment Analysis,Thematic Analysis
+Legal Education,Legal practice
+Legal Education,Practice of law
+Legal practice,Practice of law
+Academic Integrity,Paraphrase
+Academic Integrity,Raising (metalworking)
+Academic Integrity,Writing process
+Paraphrase,Raising (metalworking)
+Paraphrase,Writing process
+Raising (metalworking),Writing process
+Coursework,Popularity
+Business Intelligence,Transformative Learning
+Sustainable Tourism,Tourist destinations
+Laughter,Through-the-lens metering
+Generative model,Grading (engineering)
+Boosting,Thematic map
+Dehumanization,Oppression
+Dehumanization,White supremacy
+Oppression,White supremacy
+Display advertising,Generative model
+Generative model,Misinformation
+Artificial intelligence,Computer science
+Artificial intelligence,Generative grammar
+Artificial intelligence,Political science
+Artificial intelligence,Psychology
+Computer science,Generative grammar
+Computer science,Political science
+Computer science,Psychology
+Generative grammar,Political science
+Generative grammar,Psychology
+Political science,Psychology
+Disinformation,Hacker
+Disinformation,Misinformation
+Hacker,Misinformation
+Airfield traffic pattern,Cellular traffic
+Airfield traffic pattern,Robustness
+Airfield traffic pattern,Transfer of learning
+Cellular traffic,Robustness
+Cellular traffic,Transfer of learning
+Robustness,Transfer of learning
+Computer science,Current (fluid)
+Computer science,Electrical engineering
+Computer science,Engineering
+Computer science,Geography
+Computer science,Remote sensing
+Current (fluid),Electrical engineering
+Current (fluid),Engineering
+Current (fluid),Geography
+Current (fluid),Remote sensing
+Electrical engineering,Engineering
+Electrical engineering,Geography
+Electrical engineering,Remote sensing
+Engineering,Geography
+Engineering,Remote sensing
+Geography,Remote sensing
+Geoinformatics,Geomatics
+Artificial intelligence,Biology
+Artificial intelligence,Botany
+Artificial intelligence,Cognition
+Artificial intelligence,Computer science
+Artificial intelligence,Curriculum
+Artificial intelligence,Domain (mathematical analysis)
+Artificial intelligence,Latent Dirichlet allocation
+Artificial intelligence,Mathematical analysis
+Artificial intelligence,Mathematics
+Artificial intelligence,Mathematics education
+Artificial intelligence,Neuroscience
+Artificial intelligence,Pedagogy
+Artificial intelligence,Psychology
+Artificial intelligence,Taxonomy (biology)
+Artificial intelligence,Topic model
+Biology,Botany
+Biology,Cognition
+Biology,Computer science
+Biology,Curriculum
+Biology,Domain (mathematical analysis)
+Biology,Latent Dirichlet allocation
+Biology,Mathematical analysis
+Biology,Mathematics
+Biology,Mathematics education
+Biology,Neuroscience
+Biology,Pedagogy
+Biology,Psychology
+Biology,Taxonomy (biology)
+Biology,Topic model
+Botany,Cognition
+Botany,Computer science
+Botany,Curriculum
+Botany,Domain (mathematical analysis)
+Botany,Latent Dirichlet allocation
+Botany,Mathematical analysis
+Botany,Mathematics
+Botany,Mathematics education
+Botany,Neuroscience
+Botany,Pedagogy
+Botany,Psychology
+Botany,Taxonomy (biology)
+Botany,Topic model
+Cognition,Computer science
+Cognition,Curriculum
+Cognition,Domain (mathematical analysis)
+Cognition,Latent Dirichlet allocation
+Cognition,Mathematical analysis
+Cognition,Mathematics
+Cognition,Mathematics education
+Cognition,Neuroscience
+Cognition,Pedagogy
+Cognition,Psychology
+Cognition,Taxonomy (biology)
+Cognition,Topic model
+Computer science,Curriculum
+Computer science,Domain (mathematical analysis)
+Computer science,Latent Dirichlet allocation
+Computer science,Mathematical analysis
+Computer science,Mathematics
+Computer science,Mathematics education
+Computer science,Neuroscience
+Computer science,Pedagogy
+Computer science,Psychology
+Computer science,Taxonomy (biology)
+Computer science,Topic model
+Curriculum,Domain (mathematical analysis)
+Curriculum,Latent Dirichlet allocation
+Curriculum,Mathematical analysis
+Curriculum,Mathematics
+Curriculum,Mathematics education
+Curriculum,Neuroscience
+Curriculum,Pedagogy
+Curriculum,Psychology
+Curriculum,Taxonomy (biology)
+Curriculum,Topic model
+Domain (mathematical analysis),Latent Dirichlet allocation
+Domain (mathematical analysis),Mathematical analysis
+Domain (mathematical analysis),Mathematics
+Domain (mathematical analysis),Mathematics education
+Domain (mathematical analysis),Neuroscience
+Domain (mathematical analysis),Pedagogy
+Domain (mathematical analysis),Psychology
+Domain (mathematical analysis),Taxonomy (biology)
+Domain (mathematical analysis),Topic model
+Latent Dirichlet allocation,Mathematical analysis
+Latent Dirichlet allocation,Mathematics
+Latent Dirichlet allocation,Mathematics education
+Latent Dirichlet allocation,Neuroscience
+Latent Dirichlet allocation,Pedagogy
+Latent Dirichlet allocation,Psychology
+Latent Dirichlet allocation,Taxonomy (biology)
+Latent Dirichlet allocation,Topic model
+Mathematical analysis,Mathematics
+Mathematical analysis,Mathematics education
+Mathematical analysis,Neuroscience
+Mathematical analysis,Pedagogy
+Mathematical analysis,Psychology
+Mathematical analysis,Taxonomy (biology)
+Mathematical analysis,Topic model
+Mathematics,Mathematics education
+Mathematics,Neuroscience
+Mathematics,Pedagogy
+Mathematics,Psychology
+Mathematics,Taxonomy (biology)
+Mathematics,Topic model
+Mathematics education,Neuroscience
+Mathematics education,Pedagogy
+Mathematics education,Psychology
+Mathematics education,Taxonomy (biology)
+Mathematics education,Topic model
+Neuroscience,Pedagogy
+Neuroscience,Psychology
+Neuroscience,Taxonomy (biology)
+Neuroscience,Topic model
+Pedagogy,Psychology
+Pedagogy,Taxonomy (biology)
+Pedagogy,Topic model
+Psychology,Taxonomy (biology)
+Psychology,Topic model
+Taxonomy (biology),Topic model
+Artificial intelligence,Automatic summarization
+Artificial intelligence,Biology
+Artificial intelligence,Computer science
+Artificial intelligence,Context (archaeology)
+Artificial intelligence,Generative grammar
+Artificial intelligence,Knowledge management
+Artificial intelligence,Paleontology
+Artificial intelligence,Physics
+Artificial intelligence,Quantum mechanics
+Artificial intelligence,Scale (ratio)
+Automatic summarization,Biology
+Automatic summarization,Computer science
+Automatic summarization,Context (archaeology)
+Automatic summarization,Generative grammar
+Automatic summarization,Knowledge management
+Automatic summarization,Paleontology
+Automatic summarization,Physics
+Automatic summarization,Quantum mechanics
+Automatic summarization,Scale (ratio)
+Biology,Computer science
+Biology,Context (archaeology)
+Biology,Generative grammar
+Biology,Knowledge management
+Biology,Paleontology
+Biology,Physics
+Biology,Quantum mechanics
+Biology,Scale (ratio)
+Computer science,Context (archaeology)
+Computer science,Generative grammar
+Computer science,Knowledge management
+Computer science,Paleontology
+Computer science,Physics
+Computer science,Quantum mechanics
+Computer science,Scale (ratio)
+Context (archaeology),Generative grammar
+Context (archaeology),Knowledge management
+Context (archaeology),Paleontology
+Context (archaeology),Physics
+Context (archaeology),Quantum mechanics
+Context (archaeology),Scale (ratio)
+Generative grammar,Knowledge management
+Generative grammar,Paleontology
+Generative grammar,Physics
+Generative grammar,Quantum mechanics
+Generative grammar,Scale (ratio)
+Knowledge management,Paleontology
+Knowledge management,Physics
+Knowledge management,Quantum mechanics
+Knowledge management,Scale (ratio)
+Paleontology,Physics
+Paleontology,Quantum mechanics
+Paleontology,Scale (ratio)
+Physics,Quantum mechanics
+Physics,Scale (ratio)
+Quantum mechanics,Scale (ratio)
+Diligence,Due diligence
+Diligence,Garcia
+Due diligence,Garcia
+Chatbot,Exploratory research
+Chatbot,Nudge theory
+Exploratory research,Nudge theory
+Biology,Business
+Biology,Competition (biology)
+Biology,Ecology
+Biology,Economics
+Biology,Law and economics
+Biology,Political science
+Business,Competition (biology)
+Business,Ecology
+Business,Economics
+Business,Law and economics
+Business,Political science
+Competition (biology),Ecology
+Competition (biology),Economics
+Competition (biology),Law and economics
+Competition (biology),Political science
+Ecology,Economics
+Ecology,Law and economics
+Ecology,Political science
+Economics,Law and economics
+Economics,Political science
+Law and economics,Political science
+Business,China
+Business,Law
+Business,Political science
+China,Law
+China,Political science
+Law,Political science
+Qualitative reasoning,Value (mathematics)
+Qualitative reasoning,Visual reasoning
+Value (mathematics),Visual reasoning
+Artificial intelligence,Competence (human resources)
+Artificial intelligence,Computer science
+Artificial intelligence,Data science
+Artificial intelligence,Generative grammar
+Artificial intelligence,Psychology
+Artificial intelligence,Social psychology
+Competence (human resources),Computer science
+Competence (human resources),Data science
+Competence (human resources),Generative grammar
+Competence (human resources),Psychology
+Competence (human resources),Social psychology
+Computer science,Data science
+Computer science,Generative grammar
+Computer science,Psychology
+Computer science,Social psychology
+Data science,Generative grammar
+Data science,Psychology
+Data science,Social psychology
+Generative grammar,Psychology
+Generative grammar,Social psychology
+Psychology,Social psychology
+Redress,Staffing
+Redress,Strengths and weaknesses
+Staffing,Strengths and weaknesses
+Breast cancer,Cancer
+Breast cancer,Colorectal cancer
+Breast cancer,Family medicine
+Breast cancer,Internal medicine
+Breast cancer,Lung cancer
+Breast cancer,Medicine
+Breast cancer,Oncology
+Breast cancer,Prostate cancer
+Cancer,Colorectal cancer
+Cancer,Family medicine
+Cancer,Internal medicine
+Cancer,Lung cancer
+Cancer,Medicine
+Cancer,Oncology
+Cancer,Prostate cancer
+Colorectal cancer,Family medicine
+Colorectal cancer,Internal medicine
+Colorectal cancer,Lung cancer
+Colorectal cancer,Medicine
+Colorectal cancer,Oncology
+Colorectal cancer,Prostate cancer
+Family medicine,Internal medicine
+Family medicine,Lung cancer
+Family medicine,Medicine
+Family medicine,Oncology
+Family medicine,Prostate cancer
+Internal medicine,Lung cancer
+Internal medicine,Medicine
+Internal medicine,Oncology
+Internal medicine,Prostate cancer
+Lung cancer,Medicine
+Lung cancer,Oncology
+Lung cancer,Prostate cancer
+Medicine,Oncology
+Medicine,Prostate cancer
+Oncology,Prostate cancer
