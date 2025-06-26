@@ -1,4 +1,3 @@
-
 import os
 import pandas as pd
 import networkx as nx
@@ -8,8 +7,8 @@ import matplotlib.cm as cm
 import matplotlib.colors as mcolors
 
 # --- CONFIGURAZIONE ---
-script_dir = os.path.dirname(os.path.abspath(__file__))
-os.chdir(script_dir)
+# script_dir = os.path.dirname(os.path.abspath(__file__))
+# os.chdir(script_dir)
 
 # Caricamento dati
 df = pd.read_csv('keys_network.csv')
