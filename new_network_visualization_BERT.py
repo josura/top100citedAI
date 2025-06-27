@@ -32,6 +32,10 @@ sim = cosine_similarity(micro_centroids, emb_macros)
 micro_to_macro = {i: macro_names[sim[i].argmax()] for i in range(num_micro)}
 node_to_macro = {nodes[i]: micro_to_macro[micro_labels[i]] for i in range(len(nodes))}
 
+# Salvataggio macro
+macro_df = pd.DataFrame(list(node_to_macro.items()), columns=['node', 'macro'])
+macro_df.to_csv('macro_mapping.csv', index=False)
+
 # Costruzione grafo
 G = nx.Graph()
 for _, r in df.iterrows():
@@ -64,7 +68,8 @@ plt.show()
 # Visualizzazione interattiva
 net = Network(height='700px', width='100%', bgcolor='white')
 #net.toggle_physics(False)
-net.show_buttons(filter_=['physics'])
+# net.show_buttons(filter_=['physics'])
+net.barnes_hut()
 
 options = """{
   "physics": {
@@ -79,7 +84,7 @@ options = """{
     "minVelocity": 0.75
   }
 }"""
-# net.set_options(options)
+net.set_options(options)
 # Aggiungere nodi
 for n in G.nodes():
     net.add_node(n, label=n,
