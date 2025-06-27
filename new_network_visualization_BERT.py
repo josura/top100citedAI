@@ -46,8 +46,8 @@ colors = plt.get_cmap('tab10', len(macros))
 col_map = {m: mcolors.to_hex(colors(i)) for i, m in enumerate(macros)}
 
 # Visualizzazione statica
-pos = nx.spring_layout(G, seed=42, k=0.5)
-plt.figure(figsize=(18,13), dpi=300)
+pos = nx.spring_layout(G, seed=42, k=1.5)
+plt.figure(figsize=(20,15), dpi=300)
 nx.draw_networkx_nodes(G, pos,
                        node_size=[3000*centrality[n] for n in G.nodes()],
                        node_color=[col_map[G.nodes[n]['macro']] for n in G.nodes()],
@@ -63,14 +63,46 @@ plt.show()
 
 # Visualizzazione interattiva
 net = Network(height='700px', width='100%', bgcolor='white')
-net.toggle_physics(False)
+#net.toggle_physics(False)
+net.show_buttons(filter_=['physics'])
+
+net.set_options("""{
+  "physics": {
+    "barnesHut": {
+      "theta": 0.35,
+      "gravitationalConstant": -1000,
+      "centralGravity": 0.5,
+      "springLength": 355,
+      "springConstant": 0.035,
+      "damping": 0.47
+    },
+    "minVelocity": 0.75
+  }
+}""")
+# Aggiungere nodi
 for n in G.nodes():
     net.add_node(n, label=n,
                  color=col_map[G.nodes[n]['macro']],
                  size=10 + 50*centrality[n],
                  group=G.nodes[n]['macro'])
+# Aggiungere archi
 for u, v, d in G.edges(data=True):
     net.add_edge(u, v, value=d['weight'])
 net.write_html('network_macro_sentenceBERT.html')
+# Aggiungere legenda
+# 📌 Aggiungi nodi fissi come legenda
+legend_x = -1000  # spazio laterale
+legend_y = 0
+dy = 150
+for i, macro in enumerate(macros):
+    net.add_node(f"legend_{i}",
+                 label=macro,
+                 x=legend_x,
+                 y=legend_y + i*dy,
+                 fixed=True,
+                 physics=False,
+                 shape='box',
+                 color=col_map[macro],
+                 font={'size':14})
 
 print("✅ Generati PNG e HTML.")
