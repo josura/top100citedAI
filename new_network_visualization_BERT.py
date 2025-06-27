@@ -66,7 +66,7 @@ net = Network(height='700px', width='100%', bgcolor='white')
 #net.toggle_physics(False)
 net.show_buttons(filter_=['physics'])
 
-net.set_options("""{
+options = """{
   "physics": {
     "barnesHut": {
       "theta": 0.35,
@@ -78,7 +78,8 @@ net.set_options("""{
     },
     "minVelocity": 0.75
   }
-}""")
+}"""
+# net.set_options(options)
 # Aggiungere nodi
 for n in G.nodes():
     net.add_node(n, label=n,
@@ -88,21 +89,24 @@ for n in G.nodes():
 # Aggiungere archi
 for u, v, d in G.edges(data=True):
     net.add_edge(u, v, value=d['weight'])
-net.write_html('network_macro_sentenceBERT.html')
-# Aggiungere legenda
-# 📌 Aggiungi nodi fissi come legenda
-legend_x = -1000  # spazio laterale
+# Aggiungi nodi fissi come legenda
+legend_x = -1500
 legend_y = 0
-dy = 150
+dy = 200
 for i, macro in enumerate(macros):
     net.add_node(f"legend_{i}",
-                 label=macro,
-                 x=legend_x,
-                 y=legend_y + i*dy,
-                 fixed=True,
-                 physics=False,
-                 shape='box',
-                 color=col_map[macro],
-                 font={'size':14})
+             label=macro,
+             x=legend_x,
+             y=legend_y + i*dy,
+             fixed=True,
+             physics=False,
+             shape='box',
+             color=col_map[macro],
+             font={'size':14},
+             group='legend')
+
+
+# Scrivere l'output HTML
+net.write_html('network_macro_sentenceBERT.html')
 
 print("✅ Generati PNG e HTML.")
