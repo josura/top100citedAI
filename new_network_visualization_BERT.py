@@ -17,20 +17,15 @@ nodes = pd.Series(pd.concat([df.Source, df.Target]).unique(), name='node')
 # Embedding
 model = SentenceTransformer('all-MiniLM-L6-v2')
 emb_nodes = model.encode(nodes.tolist())
+# Le macro-categorie sono definite manualmente, aggiungile se ti servono
 macro_names = ['Mathematics', 'Biology', 'Computer Science', 'Physics', 'Chemistry', 'Economics',
                'Engineering', 'Geography', 'Sociology', 'History']
 emb_macros = model.encode(macro_names)
 
-# K-Means micro
-num_micro = 10
-kmeans = KMeans(n_clusters=num_micro, random_state=42).fit(emb_nodes)
-micro_labels = kmeans.labels_
-micro_centroids = kmeans.cluster_centers_
-
-# Mappa micro -> macro via similarità coseno
-sim = cosine_similarity(micro_centroids, emb_macros)
-micro_to_macro = {i: macro_names[sim[i].argmax()] for i in range(num_micro)}
-node_to_macro = {nodes[i]: micro_to_macro[micro_labels[i]] for i in range(len(nodes))}
+# Classificazione diretta
+sim = cosine_similarity(emb_nodes, emb_macros)
+best_macro = sim.argmax(axis=1)
+node_to_macro = {nodes[i]: macro_names[best_macro[i]] for i in range(len(nodes))}
 
 # Salvataggio macro
 macro_df = pd.DataFrame(list(node_to_macro.items()), columns=['node', 'macro'])
