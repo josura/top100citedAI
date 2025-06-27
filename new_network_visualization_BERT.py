@@ -89,24 +89,30 @@ for n in G.nodes():
 # Aggiungere archi
 for u, v, d in G.edges(data=True):
     net.add_edge(u, v, value=d['weight'])
-# Aggiungi nodi fissi come legenda
-legend_x = -1500
-legend_y = 0
-dy = 200
-for i, macro in enumerate(macros):
-    net.add_node(f"legend_{i}",
-             label=macro,
-             x=legend_x,
-             y=legend_y + i*dy,
-             fixed=True,
-             physics=False,
-             shape='box',
-             color=col_map[macro],
-             font={'size':14},
-             group='legend')
-
-
 # Scrivere l'output HTML
 net.write_html('network_macro_sentenceBERT.html')
+
+# Generazione leggenda come barra laterale nell'html
+html_path = 'network_macro_sentenceBERT.html'
+net.write_html(html_path)
+
+# Inserisci manualmente la legenda in HTML
+with open(html_path, 'r', encoding='utf-8') as f:
+    html = f.read()
+
+# Costruzione blocco legenda CSS+HTML
+legend_html = "<div style='position: absolute; top: 20px; right: 20px; background: white; border: 1px solid #ccc; padding: 10px; z-index:9999;'>"
+legend_html += "<b>Macro-categories</b><br>"
+for macro in macros:
+    color = col_map[macro]
+    legend_html += f"<div style='margin:4px'><span style='display:inline-block;width:12px;height:12px;background:{color};margin-right:6px'></span>{macro}</div>"
+legend_html += "</div>"
+
+# Inserisci prima di </body>
+html = html.replace("</body>", legend_html + "\n</body>")
+
+with open(html_path, 'w', encoding='utf-8') as f:
+    f.write(html)
+
 
 print("✅ Generati PNG e HTML.")
