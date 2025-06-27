@@ -17,7 +17,8 @@ nodes = pd.Series(pd.concat([df.Source, df.Target]).unique(), name='node')
 # Embedding
 model = SentenceTransformer('all-MiniLM-L6-v2')
 emb_nodes = model.encode(nodes.tolist())
-macro_names = ['Mathematics', 'Biology', 'Computer Science', 'Physics', 'Chemistry']
+macro_names = ['Mathematics', 'Biology', 'Computer Science', 'Physics', 'Chemistry', 'Economics',
+               'Engineering', 'Geography', 'Sociology', 'History']
 emb_macros = model.encode(macro_names)
 
 # K-Means micro
@@ -46,7 +47,7 @@ col_map = {m: mcolors.to_hex(colors(i)) for i, m in enumerate(macros)}
 
 # Visualizzazione statica
 pos = nx.spring_layout(G, seed=42, k=0.5)
-plt.figure(figsize=(12,10), dpi=150)
+plt.figure(figsize=(18,13), dpi=300)
 nx.draw_networkx_nodes(G, pos,
                        node_size=[3000*centrality[n] for n in G.nodes()],
                        node_color=[col_map[G.nodes[n]['macro']] for n in G.nodes()],
