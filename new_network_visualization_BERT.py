@@ -86,8 +86,9 @@ net.set_options(options)
 for n in G.nodes():
     net.add_node(n, label=n,
                  color=col_map[G.nodes[n]['macro']],
-                 size=10 + 50*centrality[n],
-                 group=G.nodes[n]['macro'])
+                 size=10 + 50*centrality[n]
+                 #,group=G.nodes[n]['macro']
+                 )
 # Aggiungere archi
 for u, v, d in G.edges(data=True):
     net.add_edge(u, v, value=d['weight'])
