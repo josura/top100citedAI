@@ -38,7 +38,9 @@ for _, r in df.iterrows():
         G.add_node(n, macro=node_to_macro.get(n, 'Other'))
     G.add_edge(r.Source, r.Target, weight=r.weight)
 centrality = nx.degree_centrality(G)
-macros = sorted(set(node_to_macro.values()))
+# Utilizzo macro uniche con il giusto ordine
+macros = [m for m in macro_names if m in set(node_to_macro.values())]
+
 
 # Palette colori
 colors = plt.get_cmap('tab10', len(macros))
